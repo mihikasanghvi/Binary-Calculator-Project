@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1658831441 source:c:\users\mihika\codeblocks\projects\binarycalculator\calc.c
+	<stdio.h>
+	<stdlib.h>
+	"calc.h"
+	<string.h>
+	<math.h>
+	<limits.h>
+
+1658831737 c:\users\mihika\codeblocks\projects\binarycalculator\calc.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<limits.h>
+
+1658831446 source:c:\users\mihika\codeblocks\projects\binarycalculator\main.c
+	<stdio.h>
+	"calc.h"
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<limits.h>
+
